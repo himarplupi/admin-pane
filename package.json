@@ -1,8 +1,8 @@
 {
-  "name": "notus-react",
+  "name": "admin-hima",
   "version": "1.1.0",
-  "description": "Notus React - A free Tailwind CSS and React UI Kit and Admin by Creative Tim.",
-  "repository": "https://github.com/creativetimofficial/notus-react",
+  "description": "Admin panel for Hima RPL",
+  "repository": "https://github.com/himarplupi/admin-pane",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
